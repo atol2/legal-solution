@@ -1,5 +1,6 @@
 .banner-img{
-    background-image: url('../images/banner.png');
+    background-image: url('../images/banner.png'),url('../images/Rectangle\ 5.png'), linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0.1));
+    background-blend-mode: overlay;
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
