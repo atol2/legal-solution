@@ -8406,7 +8406,7 @@ textarea.form-control-lg {
 /* rtl:end:remove */
 .text-primary {
   --bs-text-opacity: 1;
-  color: #bc8c5a !important;
+  color: #b68c5a !important;
 }
 
 .text-secondary {
@@ -8544,7 +8544,7 @@ textarea.form-control-lg {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
+  background-color: #b68c5a !important;
 }
 
 .bg-secondary {
